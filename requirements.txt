@@ -1,0 +1,5 @@
+Flask==2.0.3
+Flask-SocketIO==4.3.1
+Python-EngineIO=4.6.0
+Python-SocketIO=3.13.2
+Psycopg2
